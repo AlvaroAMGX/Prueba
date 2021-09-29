@@ -1,6 +1,6 @@
 # Prueba
 Prueba para lenguaje de marcas.
 
-*this is italic*
+*¡Esto es italico!*
 
-**this is bold**
+**¡Esto es negrita!**
