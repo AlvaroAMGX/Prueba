@@ -20,11 +20,8 @@ esto es una frase normal
 **LISTA DE LA COMPRA**
 
 1. Leche
-2. Huevos
-3. Tomate
+1. Huevos
+1. Tomate
+   1. frito 3a
+   1. triturado 3b
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
