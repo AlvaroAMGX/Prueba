@@ -22,6 +22,3 @@ esto es una frase normal
 1. Leche
 2. Huevos
 3. Tomate
-      3a Frito
-      3b Vegetal
-      3c Triturado
