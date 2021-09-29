@@ -19,8 +19,9 @@ esto es una frase normal
 
 **LISTA DE LA COMPRA**
 
-*Leche
-*tomate
-    *frito
-    *vegetal
-    *triturado
+1. Leche
+2. Huevos
+3. Tomate
+      3.1 Frito
+      3.2 Vegetal
+      3.3 Triturado
