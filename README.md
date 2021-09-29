@@ -5,4 +5,4 @@ Prueba para lenguaje de marcas.
 
 **¡Esto es negrita!**
 
-[Pulsa para ir ayoutube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Pulsa para ir a youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
