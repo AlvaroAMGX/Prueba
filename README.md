@@ -26,4 +26,9 @@ esto es una frase normal
    1. triturado
    1. Vegetal
 
-¡[Icono Videojuego] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.mx%2FDestiny-Poster-Collection-Bungie%2Fdp%2F1608874222&psig=AOvVaw1u-Lt6_1f1Ygnekx-vmHSh&ust=1633081859876000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiQsZO2pvMCFQAAAAAdAAAAABAD)
+¡[Icono Videojuego] ()
+
+Como dijo el Maestro MIyagi:
+
+> Dale un pez a un hombre y comera por un dia
+> Dale alegria a tu cuerpo alegria macarena que tu cuero es para darle alegria y cosa buena
