@@ -28,8 +28,8 @@ esto es una frase normal
 
 ![Icono Videojuego](/logotipo/destiny.jpg)
 
-Como dijo el Maestro MIyagi:
+Como dijo el Maestro Miyagi:
 
-> Dale un pez a un hombre y comera por un dia
+> Dale un pez a un hombre y comera por un dia.
 > 
-> Dale alegria a tu cuerpo macarena que tu cuero es para darle alegria y cosa buena
+> Dale alegria a tu cuerpo macarena que tu cuero es para darle alegria y cosa buena.
