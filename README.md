@@ -26,4 +26,4 @@ esto es una frase normal
    1. triturado
    1. Vegetal
 
-¡[Icono Videojuego](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdestiny.fandom.com%2Fes%2Fwiki%2FDestiny_(saga)&psig=AOvVaw0Aq27N7ZCl3PI4v2vI10rB&ust=1633081560992000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCk6IS1pvMCFQAAAAAdAAAAABAD)
+¡[Icono Videojuego](https://static.wikia.nocookie.net/destiny/images/8/88/BMXDWCvCUAA_FLI.jpg/revision/latest/scale-to-width-down/180?cb=20130820023601&path-prefix=es)
