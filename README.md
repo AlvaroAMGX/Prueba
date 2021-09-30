@@ -34,4 +34,9 @@ Como dijo el Maestro Miyagi:
 > 
 > Dale alegria a tu cuerpo macarena que tu cuero es para darle alegria y cosa buena.
 
-creo que debrias utilizar la etiqueta < p > para hacer parrafos en `(html)`
+Creo que debrias utilizar la etiqueta < p > para hacer parrafos en `(html)`.
+
+**Comida**|**Cena**
+----------|-----------
+Patas bravas|Espaghetti
+Yogurt|Helado
