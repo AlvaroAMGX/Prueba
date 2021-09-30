@@ -26,7 +26,7 @@ esto es una frase normal
    1. triturado
    1. Vegetal
 
-¡[Icono Videojuego](/logotipo/destiny.jpg)
+![Icono Videojuego](/logotipo/destiny.jpg)
 
 Como dijo el Maestro MIyagi:
 
